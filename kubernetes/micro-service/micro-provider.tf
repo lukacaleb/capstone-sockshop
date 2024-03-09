@@ -16,7 +16,7 @@ data "aws_eks_cluster_auth" "hr-dev-eks-demo_auth" {
 provider "kubernetes" {
   host                   = data.aws_eks_cluster.hr-dev-eks-demo.endpoint
   cluster_ca_certificate = base64decode(data.aws_eks_cluster.hr-dev-eks-demo.certificate_authority[0].data)
-  version          = "2.16.1"
+  version     = "2.16.1"
   config_path = "~/.kube/config"
   exec {
     api_version = "client.authentication.k8s.io/v1beta1"
