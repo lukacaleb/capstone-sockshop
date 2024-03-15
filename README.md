@@ -33,7 +33,7 @@ https://github.com/lukacaleb/capstone-sockshop/tree/main/kubernetes
 
    -`cd eks`
    `-terraform init`
-   -terraform apply 
+   -terraform apply --auto-approve
 
    ![eks test](capstone-pictures/capstone2.PNG)
 
