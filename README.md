@@ -80,5 +80,8 @@ $git clone https://github.com/lukacaleb/capstone-sockshop.git
 
 ![certificate issued](<capstone-pictures/jenkins-pictures/aws cert issued.PNG>)
 
+8. the sock-shop pointing to my domain name can be seen on the browser
+
+
 
 
