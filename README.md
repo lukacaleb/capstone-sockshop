@@ -52,4 +52,4 @@ https://github.com/lukacaleb/capstone-sockshop/tree/main/kubernetes
 
   ![jenkins default page](capstone-pictures/jenkins-pictures/jenkins1.PNG)
 
-  
+  ![alt text](capstone-pictures/jenkins-pictures/jenkins2.PNG)
