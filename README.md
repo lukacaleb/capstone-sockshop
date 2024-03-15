@@ -80,9 +80,13 @@ $git clone https://github.com/lukacaleb/capstone-sockshop.git
 
 ![certificate issued](<capstone-pictures/jenkins-pictures/aws cert issued.PNG>)
 
-8. the sock-shop pointing to my domain name can be seen on the browser
+8. the sock-shop pointing to my domain name can be seen on the browser.
+$sock-shop.manifestationcloudservice.com.ng
 
 ![sock-shop](capstone-pictures/jenkins-pictures/sock-shop.PNG)
 
 9. the sock-shop pointing to my domain name can be seen on the browser
  
+![grafana dashboard](<capstone-pictures/jenkins-pictures/grafana correct dash board.PNG>)
+
+![grafana meter](<capstone-pictures/jenkins-pictures/grafana meter.PNG>)
