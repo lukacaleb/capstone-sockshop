@@ -29,12 +29,16 @@ https://github.com/lukacaleb/capstone-sockshop/tree/main/kubernetes
    ![jenkins active and running](capstone-pictures/capstone1.PNG)
 
    optional 
-   test on eks directory to find out if there is any error with the files 
+   test on eks directory to find out if there is any error with the files.
+
+   -`cd eks`
+   `-terraform init`
+   -terraform apply 
 
    ![eks test](capstone-pictures/capstone2.PNG)
 
    ![eks test](capstone-pictures/capstone5.PNG)
 
-   ![alt text](capstone-pictures/capstone6.PNG)
+   ![eks test](capstone-pictures/capstone6.PNG)
 
 3. copy the IP address of the ec2 instance on aws to the (xxx.xxx.xx.xx:8080) this will open the jenkins default page 
