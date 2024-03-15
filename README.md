@@ -39,6 +39,7 @@ https://github.com/lukacaleb/capstone-sockshop/tree/main/kubernetes
    $cd eks
    $terraform init
    $terraform apply --auto-approve
+   $terraform destroy --auto-approve
    ```
 
    ![eks test](capstone-pictures/capstone2.PNG)
