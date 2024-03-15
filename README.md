@@ -1,4 +1,6 @@
 #ARCHITECTURAL DIAGRAM OF THE MICRO-SERVICE DEPLOYMENT ON AWS
 
 
+
+
 ![alt text](capstone-pictures/capstone1.PNG)
