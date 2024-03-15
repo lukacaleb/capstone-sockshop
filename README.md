@@ -64,6 +64,6 @@ $git clone https://github.com/lukacaleb/capstone-sockshop.git
 
 ![eks cluster deployment](capstone-pictures/jenkins-pictures/jenkins5.PNG)
 
-
+![pipelines running ](<capstone-pictures/jenkins-pictures/jenkinspipe lines runing.PNG>)
 
 6. 
