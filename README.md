@@ -64,7 +64,7 @@ $terraform destroy --auto-approve
 
 ![eks cluster deployment](capstone-pictures/11jenkins11.PNG)
 
-![pipelines running ](<capstone-pictures/12jenkinspipe lines12.PNG>)
+![pipelines running ](<capstone-pictures/12jenkinspipe lines runing12.PNGPNG>)
 
 6. many resources would be created on aws. two ec2 intances, vpc's for the instances, sockshop applications and grafana would be created on route53 and also nameservers that would copied and pointed to my domain name 
  ```markdown
