@@ -54,4 +54,4 @@ https://github.com/lukacaleb/capstone-sockshop/tree/main/kubernetes
 
   ![alt text](capstone-pictures/jenkins-pictures/jenkins2.PNG)
 
-4. 
+4. setup the environment and lik jenkins with github and set the file path to both the jenkinsfile and cluster-jenkinsfile. 
