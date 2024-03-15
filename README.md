@@ -12,6 +12,7 @@ Amazon Elastic Kubernetes Service (Amazon EKS) is a managed Kubernetes service t
 [eks link](https://github.com/lukacaleb/capstone-sockshop/tree/main/eks)
 
 ### KUBERNETES DIRECTORY
+A Kubernetes cluster is a set of nodes that run containerized applications. Containerizing applications packages an app with its dependences and some necessary services. They are more lightweight and flexible than virtual machines. In this way, Kubernetes clusters allow for applications to be more easily developed, moved and managed
 The kubernetes directory contains all files required to automate the provisioning of the sock shop through jenkins pipeline 
 
 ## EXPLAINING THE FILES. 
