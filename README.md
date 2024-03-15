@@ -60,4 +60,4 @@ $git clone https://github.com/lukacaleb/capstone-sockshop.git
 
 ![welcome to jenkins](capstone-pictures/jenkins-pictures/jenkins4.PNG)
 
-5.this is the automated deployment of sockshop using the jenkinsfile  
+5. this is the automated deployment of sockshop using the jenkinsfile and the deployment of the eks cluster using cluster-jenkinsfile.
