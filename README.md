@@ -21,5 +21,6 @@ https://github.com/lukacaleb/capstone-sockshop/tree/main/kubernetes
 
 ## THE PROCESS OF RUNING THE ENTIRE PROJECT WITH CODE AND PICTURES.
 ### the process starts with Selecting a region. One of the most important steps is to select the desired AWS region.
- 
+
+1. creat an ec2 in aws with a vpc having an ingress rule allowing all traffic, port 22, port 443 and port 80 whi
 ![jenkins active and running](capstone-pictures/capstone1.PNG)
