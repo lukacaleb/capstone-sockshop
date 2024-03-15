@@ -84,4 +84,5 @@ $git clone https://github.com/lukacaleb/capstone-sockshop.git
 
 
 
-
+9. the sock-shop pointing to my domain name can be seen on the browser
+ 
