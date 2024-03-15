@@ -50,7 +50,7 @@ $terraform destroy --auto-approve
 
 3. copy the IP address of the ec2 instance on aws to the (xxx.xxx.xx.xx:8080) this will open the jenkins default page then click on 'intall suggested pluggins' to get started.
 
-  ![jenkins default page](capstone-pictures/jenkins-pictures/jenkins1.PNG)
+  ![jenkins default page](capstone-pictures/jenkins1.PNG)
 
   ![getting started](capstone-pictures/jenkins-pictures/jenkins2.PNG)
 
