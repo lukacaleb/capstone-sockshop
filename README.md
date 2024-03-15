@@ -12,7 +12,7 @@ Amazon Elastic Kubernetes Service (Amazon EKS) is a managed Kubernetes service t
 [eks link](https://github.com/lukacaleb/capstone-sockshop/tree/main/eks)
 
 ### KUBERNETES DIRECTORY
-This kubernetes directory contains 
+The kubernetes directory contains all files required to automate the provisioning of the sock shop through jenkins pipeline 
 
 ## EXPLAINING THE FILES. 
 
