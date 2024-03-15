@@ -35,12 +35,12 @@ $git clone https://github.com/lukacaleb/capstone-sockshop.git
    optional 
    test on eks directory to find out if there is any error with the files.
 
-   ```markdown
-   $cd eks
-   $terraform init
-   $terraform apply --auto-approve
-   $terraform destroy --auto-approve
-   ```
+```markdown
+$cd eks
+$terraform init
+$terraform apply --auto-approve
+$terraform destroy --auto-approve
+```
 
    ![eks test](capstone-pictures/capstone2.PNG)
 
