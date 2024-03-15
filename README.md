@@ -82,7 +82,7 @@ $git clone https://github.com/lukacaleb/capstone-sockshop.git
 
 8. the sock-shop pointing to my domain name can be seen on the browser
 
-
+![sock-shop](capstone-pictures/jenkins-pictures/sock-shop.PNG)
 
 9. the sock-shop pointing to my domain name can be seen on the browser
  
