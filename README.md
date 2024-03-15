@@ -27,7 +27,7 @@ https://github.com/lukacaleb/capstone-sockshop/tree/main/kubernetes
 2. clone the repository from github basically to run the istaller.sh with its dependences using the following command (./installer.sh)
 
 ```markdown
-    $git clone https://github.com/lukacaleb/capstone-sockshop.git
+$git clone https://github.com/lukacaleb/capstone-sockshop.git
 ```
 
    ![jenkins active and running](capstone-pictures/capstone1.PNG)
