@@ -31,10 +31,12 @@ https://github.com/lukacaleb/capstone-sockshop/tree/main/kubernetes
    optional 
    test on eks directory to find out if there is any error with the files.
 
+  ```markdown
    `cd eks`
    `terraform init`
-   [terraform apply --auto-approve
-](https://)
+   `terraform apply --auto-approve`
+  ```
+`
    ![eks test](capstone-pictures/capstone2.PNG)
 
    ![eks test](capstone-pictures/capstone5.PNG)
