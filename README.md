@@ -64,28 +64,28 @@ $terraform destroy --auto-approve
 
 ![eks cluster deployment](capstone-pictures/11jenkins11.PNG)
 
-![pipelines running ](<capstone-pictures/12jenkinspipe lines runing12.PNGPNG>)
+![pipe lines runing](<capstone-pictures/12jenkinspipe lines runing12.PNG>)
 
 6. many resources would be created on aws. two ec2 intances, vpc's for the instances, sockshop applications and grafana would be created on route53 and also nameservers that would copied and pointed to my domain name 
  ```markdown
  `$http://manifestationcloudservice.com.ng/`
  ```
- ![name servers](<capstone-pictures/jenkins-pictures/updating nameservers.PNG>)
+ ![name servers](<capstone-pictures/13updating nameservers13.PNG>)
 
 
 
  7. a secure certificate was created on aws certificate manager and after awhile it was issued. at this juncture the we can copy the both the sock-shop and grafana URL pointing to my domain name to the bowser to open the sock-shop and the grafana dashboard visually monitoring the microservice-base applications.despite the fact that a secured certificate on aws was issued both the sock-shop application and grafana dashboard were not secured on the browser.
 
- ![certificate pending](capstone-pictures/jenkins-pictures/certificate.PNG)
+ ![certificate pending](capstone-pictures/14certificate14.PNG)
 
-![certificate issued](<capstone-pictures/jenkins-pictures/aws cert issued.PNG>)
+![certificate issued](<capstone-pictures/15aws cert issued.PNG>)
 
 8. the sock-shop pointing to my domain name can be seen on the browser.
 ```markdown
 $sock-shop.manifestationcloudservice.com.ng
 ```
 
-![sock-shop](capstone-pictures/jenkins-pictures/sock-shop.PNG)
+![sock-shop](capstone-pictures/16sock-shop.PNG)
 
 9. the sock-shop pointing to my domain name can be seen on the browser. 
 
@@ -93,6 +93,6 @@ $sock-shop.manifestationcloudservice.com.ng
 $grafana.manifestationcloudservice.com.ng
 ```
  
-![grafana dashboard](<capstone-pictures/jenkins-pictures/grafana correct dash board.PNG>)
+![grafana dashboard](<capstone-pictures/17grafana correct dash board.PNG>)
 
-![grafana meter](<capstone-pictures/jenkins-pictures/grafana meter.PNG>)
+![grafana meter](<capstone-pictures/18grafana meter.PNG>)
