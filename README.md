@@ -30,7 +30,7 @@ https://github.com/lukacaleb/capstone-sockshop/tree/main/kubernetes
 $git clone https://github.com/lukacaleb/capstone-sockshop.git
 ```
 
-   ![jenkins active and running](capstone-pictures/capstone1.PNG)
+   ![jenkins active and running](<capstone-pictures/1 capstone1.PNG>)
 
    optional 
    test on eks directory to find out if there is any error with the files.
@@ -42,11 +42,11 @@ $terraform apply --auto-approve
 $terraform destroy --auto-approve
 ```
 
-   ![eks test](capstone-pictures/capstone2.PNG)
+   ![eks test](capstone-pictures/2capstone2.PNG)
 
-   ![eks test](capstone-pictures/capstone5.PNG)
+   ![eks test](capstone-pictures/5capstone5.PNG)
 
-   ![eks test](capstone-pictures/capstone6.PNG)
+   ![eks test](capstone-pictures/6capstone6.PNG)
 
 3. copy the IP address of the ec2 instance on aws to the (xxx.xxx.xx.xx:8080) this will open the jenkins default page then click on 'intall suggested pluggins' to get started.
 
