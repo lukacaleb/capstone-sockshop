@@ -74,4 +74,4 @@ $git clone https://github.com/lukacaleb/capstone-sockshop.git
 
 
 
- 7. a secure certificate was created on aws certificate manager
+ 7. a secure certificate was created on aws certificate manager and was issued 
