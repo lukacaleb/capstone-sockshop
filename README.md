@@ -56,6 +56,6 @@ $git clone https://github.com/lukacaleb/capstone-sockshop.git
 
 4. setup the environment and link jenkins with github and set the file path to both the jenkinsfile and cluster-jenkinsfile. 
 
-![jenkins is ready ](capstone-pictures/jenkins-pictures/jenkins3.PNG)
+ ![jenkins is ready ](capstone-pictures/jenkins-pictures/jenkins3.PNG)
 
 5. 
