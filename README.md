@@ -50,19 +50,19 @@ $terraform destroy --auto-approve
 
 3. copy the IP address of the ec2 instance on aws to the (xxx.xxx.xx.xx:8080) this will open the jenkins default page then click on 'intall suggested pluggins' to get started.
 
-  ![jenkins default page](capstone-pictures/jenkins1.PNG)
+  ![jenkins default page](capstone-pictures/7jenkins7.PNG)
 
-  ![getting started](capstone-pictures/jenkins-pictures/jenkins2.PNG)
+  ![getting started](capstone-pictures/8jenkins8.PNG)
 
 4. setup the environment and link jenkins with github and set the file path to both the jenkinsfile and cluster-jenkinsfile. 
 
- ![jenkins is ready ](capstone-pictures/jenkins-pictures/jenkins3.PNG)
+ ![jenkins is ready ](capstone-pictures/9jenkins9.PNG)
 
-![welcome to jenkins](capstone-pictures/jenkins-pictures/jenkins4.PNG)
+![welcome to jenkins](capstone-pictures/10jenkins10.PNG)
 
 5. this is the automated deployment of sockshop using the jenkinsfile and the deployment of the eks cluster using cluster-jenkinsfile.
 
-![eks cluster deployment](capstone-pictures/jenkins-pictures/jenkins5.PNG)
+![eks cluster deployment](capstone-pictures/11jenkins11.PNG)
 
 ![pipelines running ](<capstone-pictures/jenkins-pictures/jenkinspipe lines runing.PNG>)
 
