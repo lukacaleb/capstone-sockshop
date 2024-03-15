@@ -58,3 +58,4 @@ $git clone https://github.com/lukacaleb/capstone-sockshop.git
 
 ![jenkins is ready ](capstone-pictures/jenkins-pictures/jenkins3.PNG)
 
+5. 
