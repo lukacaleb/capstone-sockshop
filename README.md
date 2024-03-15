@@ -67,4 +67,6 @@ $git clone https://github.com/lukacaleb/capstone-sockshop.git
 ![pipelines running ](<capstone-pictures/jenkins-pictures/jenkinspipe lines runing.PNG>)
 
 6. many resources would be created on aws. two ec2 intances, vpc's for the instances, sockshop applications and grafana would be created on route53 and also nameservers that would copied and pointed to my domain name 
- $http://manifestationcloudservice.com.ng/
+ ```markdown
+ `$http://manifestationcloudservice.com.ng/`
+ ```
