@@ -70,3 +70,4 @@ $git clone https://github.com/lukacaleb/capstone-sockshop.git
  ```markdown
  `$http://manifestationcloudservice.com.ng/`
  ```
+![name servers](<capstone-pictures/jenkins-pictures/updating nameservers.PNG>)
