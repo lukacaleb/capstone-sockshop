@@ -20,4 +20,4 @@ The kubernetes directory contains all files required to automate the provisionin
 
 ## THE PROCESS OF RUNING THE ENTIRE PROJECT WITH CODE AND PICTURES.
 
-![alt text](capstone-pictures/capstone1.PNG)
+![jenkins active and running](capstone-pictures/capstone1.PNG)
