@@ -20,5 +20,6 @@ https://github.com/lukacaleb/capstone-sockshop/tree/main/kubernetes
 
 
 ## THE PROCESS OF RUNING THE ENTIRE PROJECT WITH CODE AND PICTURES.
-
+### the process starts with Selecting a region. One of the most important steps is to select the desired AWS region.
+ 
 ![jenkins active and running](capstone-pictures/capstone1.PNG)
