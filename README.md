@@ -74,4 +74,7 @@ $git clone https://github.com/lukacaleb/capstone-sockshop.git
 
 
 
- 7. a secure certificate was created on aws certificate manager and after awhile it was issued. at this juncture the we can copy the both the sock-shop and grafana URL pointing to my domain name to the bowser to open the sock-shop and the grafana dashboard visually monitoring the microservice-base applications.
+ 7. a secure certificate was created on aws certificate manager and after awhile it was issued. at this juncture the we can copy the both the sock-shop and grafana URL pointing to my domain name to the bowser to open the sock-shop and the grafana dashboard visually monitoring the microservice-base applications.despite the fact that a secured certificate on aws was issued both the sock-shop application and grafana dashboard were not secured on the browser.
+
+ 
+  
