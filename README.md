@@ -85,7 +85,9 @@ $sock-shop.manifestationcloudservice.com.ng
 
 ![sock-shop](capstone-pictures/jenkins-pictures/sock-shop.PNG)
 
-9. the sock-shop pointing to my domain name can be seen on the browser
+9. the sock-shop pointing to my domain name can be seen on the browser. 
+
+$grafana.manifestationcloudservice.com.ng
  
 ![grafana dashboard](<capstone-pictures/jenkins-pictures/grafana correct dash board.PNG>)
 
