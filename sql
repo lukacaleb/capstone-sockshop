@@ -3,22 +3,22 @@
     |  (Source Control) |       |   (CI/CD System) |       |  (Container Orchestration)|
     +--------+----------+       +---------+--------+       +------------+---------+
              |                           |                            | 
-             | Git Webhooks             |                            | Kubernetes API
+             | Git Webhooks              |                            |  Kubernetes API
              |                           |                            |
              v                           |                            |
     +--------+----------+       +--------v----------+       +-------v--------------+
     |   Jenkins Server  |       |    Terraform      |       |    EC2 Instances     |
     | (CI/CD Pipeline)  |       | (Infrastructure   |       |  (Compute Resources) |
-    +---------+---------+       |  Provisioning)   |       +-----------+----------+
-              |                  +--------+---------+                    |
+    +---------+---------+       |  Provisioning)    |        +-----------+----------+
+              |                 +--------+----------+                     |
               |                           |                               |
-              | Jenkins Pipeline          | Terraform                    |
+              | Jenkins Pipeline          | Terraform                     |
               |                           |                               |
               v                           v                               v
-  +-----------+-----------+   +-----------+-----------+       +-----------+-----------+
-  |    Microservices      |   |      Kubernetes       |       |        Grafana         |
-  | (Docker Containers)   |   | (Container Orchestration)|       |   (Monitoring System)  |
-  +-----------+-----------+   +-----------+-----------+       +-----------+-----------+
+  +-----------+-----------+   +-----------+--------------+    +-----------+-----------+
+  |    Microservices      |   |      Kubernetes          |    |        Grafana        |
+  | (Docker Containers)   |   | (Container Orchestration)|    |   (Monitoring System) |
+  +-----------+-----------+   +-----------+--------------+    +-----------+-----------+
               |                           |                               |
               | Docker Registry           |                               |
               |                           |                               |
@@ -30,12 +30,12 @@
                                           |                               |
                                           v                               |
                                   +-------+---------+                     |
-                                  |     Prometheus   |                     |
+                                  |     Prometheus  |                     |
                                   |  (Monitoring)   |                     |
                                   +-----------------+                     |
-                                                                           |
-                                                                           v
-                                                                   +-------+---------+
+                                                                          |
+                                                                          v
+                                                                   +-------+----------+
                                                                    |     AlertManager |
-                                                                   |  (Alerting System)|
+                                                                   | (Alerting System)|
                                                                    +------------------+
