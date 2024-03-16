@@ -9,7 +9,7 @@
     +--------+----------+       +--------v----------+       +-------v--------------+
     |   Jenkins Server  |       |    Terraform      |       |    EC2 Instances     |
     | (CI/CD Pipeline)  |       | (Infrastructure   |       |  (Compute Resources) |
-    +---------+---------+       |  Provisioning)    |        +-----------+----------+
+    +---------+---------+       |  Provisioning)    |       +-----------+----------+
               |                 +--------+----------+                     |
               |                           |                               |
               | Jenkins Pipeline          | Terraform                     |
