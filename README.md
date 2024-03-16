@@ -4,7 +4,7 @@ This project deployed a microservices-based application using Jenkins and terraf
 $https://github.com/lukacaleb/capstone-sockshop.git
 
 ## ARCHITECTURAL DIAGRAM OF THE MICRO-SERVICE DEPLOYMENT ON AWS
-
+![arch. Diagram](<architectural diagram capstone1.jpg>)
 
 ## EXPLAINING THE REPOSITORIES.
 ### EKS DIRECTORY 
