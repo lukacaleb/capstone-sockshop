@@ -17,6 +17,15 @@ The kubernetes directory contains all files required to automate the provisionin
 https://github.com/lukacaleb/capstone-sockshop/tree/main/kubernetes
 
 ## EXPLAINING THE FILES. 
+### Here I would like to explain some very important files and their operations with some very important rules.
+
+(i) Installer.sh:  The installer.sh. installs Jenkins and also start Jenkins in the ec2 instance on aws.
+
+(ii) Cluster-Jenkinsfile =Deploys the Elastic Kubernetes Service (EKS) pipeline on aws.
+
+(iii) Jenkinsfile = Deploys the Kubernetes Cluster (10 micro-services) pipeline on aws.
+
+(iv)	The ingress rule and the domain name explain, the Nginx-ingress rule helps us to create an internal load balancer, this internal load balancer takes every service in the EKS Cluster and route the traffic, using the ingress rule, the ingress rule help route that traffic to a specific sub-domain, so that we can access both grafana and sock shop on the browser with the domain name provided in the automation in my case “manifestationcloudservice.com.ng” in addition Prometheus is for monitoring and by default grafana is also installed once Prometheus is installed.
 
 
 ## THE PROCESS OF RUNING THE ENTIRE PROJECT WITH AWS AND JENKINS PIPELINES IN PICTURES.
